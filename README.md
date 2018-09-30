@@ -27,5 +27,6 @@ https://challenger.ai/competition/adp2018
 
 ## GAN tutorial
 Tutorial: https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners
-Scripts: https://github.com/jonbruner/generative-adversarial-networks
+
+Scripts: https://github.com/jonbruner/generative-adversarial-networks  
 If you get an error saying "tf.mul" doesn't exist, change all "tf.mul" to "tf.multiply" and the script should work well.
