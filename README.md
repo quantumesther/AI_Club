@@ -10,7 +10,7 @@ Some of the scripts and tutorials have their own repositories. Those are listed 
 ## AI Challenger Resources
 Baseline and evaluation: https://github.com/AIChallenger/AI_Challenger_2018
 
-Datasets:
+Datasets:  
 You need to get an account & register for a given contest to download the dataset, but it's a quick process. 
 Feel free to ask me if you have any question.
 
